@@ -4,10 +4,8 @@ Contract IQ-is a Python-based tool that helps users analyze and understand legal
 
 Target Users:
 College students signing internships, housing leases, or service agreements
-
 Freelancers working with clients on short-term contracts
-
 Small business owners reviewing vendor or partnership agreements
 
-#Creators
+# Creators-
 Malaki Heard
