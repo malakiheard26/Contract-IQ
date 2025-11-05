@@ -8,3 +8,5 @@ College students signing internships, housing leases, or service agreements
 Freelancers working with clients on short-term contracts
 
 Small business owners reviewing vendor or partnership agreements
+#Creators
+Malaki Heard
